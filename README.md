@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm RAJ — a BCA student and aspiring software developer passionate about Java, DSA, Web Development, and AI. I enjoy building real-world projects, learning scalable technologies, and continuously improving my problem-solving skills. Currently focused on becoming industry-ready for top tech companies while exploring backend systems, frontend design, and data-driven technologies.
+Hi, I'm RAJ — a BCA student and a software developer passionate about Java, DSA, Web Development, and AI. I enjoy building real-world projects, learning scalable technologies, and continuously improving my problem-solving skills. Currently focused on becoming industry-ready for top tech companies while exploring backend systems, frontend design, and data-driven technologies.
 
 
 ## 🌐 Socials:
