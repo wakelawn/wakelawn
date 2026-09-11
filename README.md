@@ -1,118 +1,128 @@
+<!-- ═══════════════════════════════════════════════
+     RAJ_O.S v2.0 — KERNEL BOOT SUCCESSFUL
+     Easter egg: you just read a hidden comment. 🍪
+     ═══════════════════════════════════════════════ -->
+
+    ██████╗  █████╗       ██╗
+    ██╔══██╗██╔══██╗      ██║
+    ██████╔╝███████║      ██║
+    ██╔══██╗██╔══██║      ██║
+    ██║  ██║██║  ██║██   ██║
+    ╚═╝  ╚═╝╚═╝  ╚═╝╚█████╔╝
+                     ╚════╝
+    ─────────────────────────────────────
+      RAJ_O.S v2.0 — "It's not a bug.
+      It's a feature."
+    ─────────────────────────────────────
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="coding cat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+initializing+raj_os...;%3E+java+wizard+%E2%9A%A1;%3E+building+distributed+systems;%3E+there+are+no+bugs+%E2%80%94+only+features;%3E+sudo+rm+-rf+doubts%2F" alt="typing" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=wakelawn&label=INTRUSIONS+DETECTED&color=00ff41&style=flat" alt="counter" />
 </div>
 
 ---
 
-## 🧰 // arsenal.config
+## [ raj@raj-os:~ ]$ neofetch
 
-### ⚔️ Languages
-<p>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-</p>
-
-### 🛡️ Frameworks & Runtime
-<p>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
-</p>
-
-### 🗄️ Databases
-<p>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-</p>
-
-### ☁️ Cloud, DevOps & Creative
-<p>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
+    ██████╗  █████╗       ██╗    raj@raj-os
+    ██╔══██╗██╔══██╗      ██║    ─────────────────────────────
+    ██████╔╝███████║      ██║    OS      : Raj_O.S v2.0 (btw)
+    ██╔══██╗██╔══██║      ██║    Kernel  : java-21-lts
+    ██║  ██║██║  ██║██   ██║    Shell   : /bin/bash
+    ╚═╝  ╚═╝╚═╝  ╚═╝╚█████╔╝    DE      : caffeine-wm 2.0
+                     ╚════╝      Memory  : 8GB (7.9GB coffee cache)
+                                 Uptime  : since first `git init`
+                                 Status  : extroverted after trust handshake
 
 ---
 
-## 📊 // telemetry
+## [ raj@raj-os:~ ]$ cat about.txt
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wakelawn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&include_all_commits=true&count_private=true&border_radius=10" alt="wakelawn" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakelawn&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_radius=10" alt="wakelawn" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wakelawn&hide_border=true&border_radius=10&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=00FF41&dates=777777" alt="wakelawn" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=wakelawn&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="wakelawn" />
-</div>
-
----
-
-## 🏆 // achievements.unlocked
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wakelawn&theme=matrix&no-frame=true&no-bg=true&column=7" alt="wakelawn" />
-</div>
+    ┌──(raj㉿raj-os)-[~]
+    └─$ whoami
+      Raj Islam — Java craftsman by day, bug hunter by night.
+    └─$ cat mission.txt
+      > building  : Raj-O.S
+      > learning  : React + Spring Boot
+      > collab    : Distributed Code Execution Platform
+      > ask me    : JAVA (warning: I won't stop)
+    └─$ sudo ./launch_portfolio.sh
+      https://wakelawn.github.io/Portfolio/
+    └─$ rm -rf doubts/
+      removed 'doubts' successfully
 
 ---
 
-## 🐍 // snake.exe
+## [ raj@raj-os:~ ]$ cat boot.log
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wakelawn/wakelawn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wakelawn/wakelawn/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/wakelawn/wakelawn/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+    [  OK  ] Reached target ☕ Caffeine Overflow
+    [  OK  ] Mounted /dev/brain
+    [  OK  ] Loaded kernel module: java_virtual_machine.ko
+    [ WARN ] sleep.service failed to start — retrying at 3 AM
+    [ BOOT ] Raj_O.S v2.0 — ALL SYSTEMS GO
 
 ---
 
-## 🎲 // random.sh
+## [ raj@raj-os:~ ]$ cat skills.conf
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="jokes card" />
-</div>
+    java         [███████████████░░░░] 75%  ← ask me about it
+    spring_boot  [████████████░░░░░░░] 60%
+    react        [███████████░░░░░░░░] 55%
+    node.js      [██████████░░░░░░░░░] 50%
+    sql/nosql    [███████████░░░░░░░░] 55%
+    linux        [████████████████░░░] 80%
+    docker       [█████████░░░░░░░░░░] 45%
+    rust         [██████░░░░░░░░░░░░░] 30%  ← loading...
 
 ---
 
-## 🤝 // open_connection
+## [ raj@raj-os:~ ]$ ps aux | grep raj
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/md-raj-islam-012200238" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://instagram.com/_re_awaken_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-  <a href="https://www.leetcode.com/wakelawn" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>
-  <a href="https://wakelawn.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
-  <a href="mailto:islamraj477@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-</div>
+    PID    PROCESS                    STATUS
+    0001   raj-os/kernel              BUILDING...
+    0002   distributed-code-exec      SEEKING COLLABORATORS
+    0003   react+springboot.service   LEARNING...
+    0004   sleep.service              FAILED — see boot.log
 
-> ⚡ *"Very extrovert once I know you good"* — [trust handshake required 🤝]
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=echo%20%22Thanks%20for%20stopping%20by.%20Now%20go%20star%20a%20repo.%22&fontSize=20&fontColor=ffffff&color=0:0abf26,50:0D1117,100:0abf26" width="100%" />
-</div>
+## [ raj@raj-os:~ ]$ nmap -sV raj.islam
+
+    Starting Nmap 7.94 ( https://nmap.org )
+    Nmap scan report for raj-os (10.0.0.42)
+    Host is up (0.066s latency).        # 666ms — it's a sign
+
+    PORT       STATE  SERVICE
+    80/tcp     open   linkedin    → linkedin.com/in/md-raj-islam-012200238
+    443/tcp    open   gmail       → islamraj477@gmail.com
+    1337/tcp   open   leetcode    → leetcode.com/wakelawn
+    3000/tcp   open   portfolio   → wakelawn.github.io/Portfolio
+    8080/tcp   open   instagram   → @_re_awaken_
+    22/tcp     open   ssh         → key required (trust handshake first)
+
+Reachable endpoints → [LinkedIn](https://www.linkedin.com/in/md-raj-islam-012200238) · [LeetCode](https://www.leetcode.com/wakelawn) · [Instagram](https://instagram.com/_re_awaken_) · [Portfolio](https://wakelawn.github.io/Portfolio/) · [Gmail](mailto:islamraj477@gmail.com)
+
+---
+
+<details>
+<summary><b>📊 ./system_stats — click to expand</b></summary>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=wakelawn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" alt="stats" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakelawn&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="langs" height="165em"/>
+
+<img src="https://streak-stats.demolab.com?user=wakelawn&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=00FF41&dates=777777" alt="streak" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=wakelawn&theme=matrix&no-frame=true&no-bg=true&column=7" alt="trophy" width="95%"/>
+
+</details>
+
+---
+
+    ┌──(raj㉿raj-os)-[~]
+    └─$ exit
+      logout
+      Connection to raj-os closed.
+
+> *"Now go `git push` your limits."* ⚡
