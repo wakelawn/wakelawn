@@ -97,10 +97,14 @@ Reachable endpoints → [LinkedIn](https://www.linkedin.com/in/md-raj-islam-0122
 ---
 
 <details>
-<summary><b>📊 ./system_stats — click to expand</b></summary>
+<summary><b>My Fun Pic's — click to expand</b></summary>
 <br>
 
-<img src="https://in.pinterest.com/pin/586312445286397274/"/>
+<img width="70" height="70" alt="download" src="https://github.com/user-attachments/assets/47417411-1d97-4754-9801-ee783252e669" />
+<img width="70" height="70" alt="download (1)" src="https://github.com/user-attachments/assets/370a3d34-cf78-4344-b1e7-4ba75b83c564" />
+<img width="70" height="70" alt="download (2)" src="https://github.com/user-attachments/assets/45b3e94c-1c2f-469b-96ac-06707f40d22c" />
+<img width="70" height="70" alt="download (3)" src="https://github.com/user-attachments/assets/c214173b-535c-4e7c-916e-d5143da75ad4" />
+
 
 </details>
 
