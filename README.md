@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+initializing+raj_os...;%3E+java+wizard+%E2%9A%A1;%3E+building+distributed+systems;%3E+there+are+no+bugs+%E2%80%94+only+features;%3E+sudo+rm+-rf+doubts%2F" alt="typing" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=wakelawn&label=INTRUSIONS+DETECTED&color=00ff41&style=flat" alt="counter" />
 </div>
-
----
-
 ## wakelawn$ 
 
     ██████╗  █████╗       ██╗  
